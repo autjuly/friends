@@ -1,0 +1,33 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "小码博客",
+      "url": "https://blog.hikki.site/",
+      "avatar": "https://bu.dusays.com/2022/11/04/636511250b21b.jpg",
+      "screenshot": "",
+      "description": "喜欢的东西就努力去追求，万一成功了呢!"
+    },
+    {
+      "title": "星日语",
+      "url": "https://weekdaycare.cn/",
+      "avatar": "https://api.iconify.design/line-md:sunny-outline-twotone-loop.svg?color=%23eb4600",
+      "screenshot": "",
+      "description": "星语日点灯"
+    },
+    {
+      "title": "是非题",
+      "url": "https://www.shifeiti.com/",
+      "avatar": "https://other.shifeiti.com/logo/logo.png",
+      "screenshot": "",
+      "description": "记录生活，热爱跑步，学习 FPGA 中"
+    },
+    {
+      "title": "SkyReeves",
+      "url": "https://skyreeves.cn/",
+      "avatar": "https://img.skyreeves.cn/main/avatar96.gif",
+      "screenshot": "https://img.skyreeves.cn/hexo/截屏2022-10-30-04.04.40.png",
+      "description": "垫脚石记号"
+    }
+  ]
+}
